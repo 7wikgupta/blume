@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Jun 2020 06:02:04 at http://katielovesairbnb.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://katielovesairbnb.com/ -O1 "C:\My Web Sites\Blume" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:06:14	Error: 	"Not Found" (404) at link katielovesairbnb.com/css/bootstrap.css (from katielovesairbnb.com/)
+06:06:14	Warning: 	Retry after error -4 (No data (connection closed)) at link katielovesairbnb.com/BNB_files/css/reset.css (from katielovesairbnb.com/)
+06:07:19	Error: 	"Not Found" (404) at link katielovesairbnb.com/fontawesome/css/font-awesome.min.css (from katielovesairbnb.com/)
+06:10:12	Warning: 	Retry after error -4 (Incorrect length (3433347 Bytes, 5248314 expected)) at link katielovesairbnb.com/BNB_files/passdemo1.ogv (from katielovesairbnb.com/)
+06:10:34	Warning: 	Retry after error -4 (No data (connection closed)) at link katielovesairbnb.com/BNB_files/js/jquery.min.js (from katielovesairbnb.com/)
+06:10:51	Error: 	"Not Found" (404) at link katielovesairbnb.com/js/libs/jquery-1.7.1.min.js (from katielovesairbnb.com/)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/footer-timer-div.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/footer-twitter-logo.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/footer-tweet-now.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Warning: 	Retry after error -4 (No data (connection closed)) at link katielovesairbnb.com/BNB_files/img/footer-facebook.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/footer-google.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/footer-tab.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/slider-bg.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/slider-handle.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/slider-highlight.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/s2-background.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/s4-person1.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/s4-person2.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/s5-people.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/s5-bin.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/s6-hand-right.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/s6-hand-left.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:02	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/s7-main.png (from katielovesairbnb.com/BNB_files/css/style.css)
+06:11:54	Error: 	"Not Found" (404) at link www.chabolla.com/portfolio/img/fine_art/gunnar.jpg (from katielovesairbnb.com/three_questions.html)
+06:11:54	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/css/fonts/wwf-webfont.eot (from katielovesairbnb.com/BNB_files/css/reset.css)
+06:11:54	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/css/fonts/wwf-webfont.eot? (from katielovesairbnb.com/BNB_files/css/reset.css)
+06:11:54	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/css/fonts/wwf-webfont.woff (from katielovesairbnb.com/BNB_files/css/reset.css)
+06:11:54	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/css/fonts/wwf-webfont.ttf (from katielovesairbnb.com/BNB_files/css/reset.css)
+06:11:54	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/css/fonts/wwf-webfont.svg (from katielovesairbnb.com/BNB_files/css/reset.css)
+06:11:54	Error: 	"Not Found" (404) at link katielovesairbnb.com/BNB_files/img/footer-facebook.png (from katielovesairbnb.com/BNB_files/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 1 seconds : 81 links scanned, 50 files written (13727965 bytes overall) [13792515 bytes received at 22949 bytes/sec], 178011 bytes transferred using HTTP compression in 29 files, ratio 36%, 1.8 requests per connection
+(26 errors, 4 warnings, 0 messages)
